@@ -18,7 +18,7 @@ hide:
 
     <h4>Looking for the Warp/Dynamo/RELION/M guide?</h4>
 
-    <a href="https://teamtomo.github.io/teamtomo-site-archive">teamtomo.github.io/teamtomo-site-archive</a>
+    <a href="https://teamtomo.org/teamtomo-site-archive">teamtomo.github.io/teamtomo-site-archive</a>
 
 </div>
 
