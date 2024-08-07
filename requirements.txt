@@ -1,0 +1,2 @@
+# python dependencies for building the site
+mkdocs-material

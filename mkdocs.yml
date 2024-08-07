@@ -1,0 +1,79 @@
+site_name: teamtomo.org
+site_url: https://teamtomo.org
+site_author: teamtomo
+site_description: >-
+  Modular Python packages the cryo-ET community can depend on.
+repo_name: teamtomo/teamtomo.org
+repo_url: https://github.com/teamtomo/teamtomo.org
+edit_uri: edit/main/src
+docs_dir: src
+copyright: Copyright &copy; 2024 - 2024 teamtomo
+
+
+nav:
+  - home: index.md
+  - packages: site/packages.md
+  # - applications: site/applications.md
+  #  - team: site/team.md
+
+theme:
+  icon:
+    logo: material/cube-outline
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"  # Palette toggle for light mode
+      scheme: default
+      primary: blue
+      accent: blue
+
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
+    - navigation.content_next # next/previous links bottom of content
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    - navigation.icons
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.progressbar:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: "#"
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+  - blog
+
+extra_css:
+  - stylesheets/extra.css
