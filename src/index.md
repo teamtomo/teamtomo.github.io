@@ -16,7 +16,7 @@ hide:
 
 <div align="center">
 
-    <h4>Looking for the HIV processing guide?</h4>
+    <h4>Looking for the Warp/Dynamo/RELION/M guide?</h4>
 
     <a href="https://teamtomo.github.io/teamtomo-site-archive">teamtomo.github.io/teamtomo-site-archive</a>
 
