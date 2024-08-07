@@ -1,0 +1,34 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+
+# This job installs dependencies, builds the site and pushes it to
+# the `gh-pages` branch of the same repository.
+jobs:
+  deploy-book:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Build the site
+        run: |
+          mkdocs build
+
+      - name: Push built site to GitHub pages branch of repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_dir: ./site
+          github_token: ${{ secrets.GITHUB_TOKEN }}
