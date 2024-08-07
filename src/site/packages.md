@@ -1,6 +1,6 @@
-# TeamTomo Packages
+# Packages
 
-TeamTomo packages are Python code you can use in your own projects!
+TeamTomo packages are Python code you can depend on for use in your own projects!
 
 ## input / output
 
@@ -12,9 +12,9 @@ Analysis of cryo-ET data often involves a little scripting, these file input and
 -  :material-star:{ .lg .middle } [__starfile__](https://teamtomo.org/starfile)
 -  :simple-materialdesignicons:{ .lg .middle } [__imodmodel__](https://teamtomo.org/imodmodel)
 -  :fontawesome-regular-file-lines:{ .lg .middle } [__mdocfile__](https://teamtomo.org/mdocfile)
--  :material-scale-balance:{ .lg .middle } [__emfile__](https://github.com/teamtomo/emfile)
--  :material-scale-balance:{ .lg .middle } [__dynamotable__](https://github.com/teamtomo/dynamotable)
--  :material-scale-balance:{ .lg .middle } [__mmdf__](https://github.com/teamtomo/mmdf)
+-  :material-image-outline:{ .lg .middle } [__emfile__](https://github.com/teamtomo/emfile)
+-  :fontawesome-regular-file-lines:{ .lg .middle } [__dynamotable__](https://github.com/teamtomo/dynamotable)
+-  :material-axis-arrow:{ .lg .middle } [__mmdf__](https://github.com/teamtomo/mmdf)
 </div>
 
 ## image analysis
@@ -22,7 +22,8 @@ Analysis of cryo-ET data often involves a little scripting, these file input and
 Some of the image processing we do in cryo-EM is domain specific. 
 
 These packages for image analysis help you to explore your new ideas without reinventing the wheel. 
-Many are implemented in PyTorch, this means they can run on GPUs and make use of autodiff.
+Many are implemented in PyTorch, this means they can run on GPUs and make use of autodiff
+for parameter optimisation.
 
 <div class="grid cards" markdown>
 -  :fontawesome-regular-file-lines:{ .lg .middle } [__torch-fourier-slice__](https://github.com/teamtomo/torch-fourier-slice)
