@@ -393,24 +393,4 @@
     animation: animate-stripes 3s linear infinite;
   }
   
-  /* .md-content .md-typeset a[href*="//"]:not([href*="mywebsite.co.uk"])::after
-  {
-    content: "";
-    display: inline-block;
-    margin-left: 0.15em;
-    margin-bottom: 0.3em;
-    vertical-align: middle;
-    width: 0.7em;
-    height: 1em;
-    -webkit-mask-image: var(--link-out-svg);
-    mask-image: var(--link-out-svg);
-    -webkit-mask-size: 0.7em 1em;
-    mask-size: 0.7em 1em;
-    background-color: var(--md-typeset-a-color);
-  }
   
-  .md-content .md-typeset  a[href*="//"]:not([href*="mywebsite.co.uk"]):hover::after
-  {
-    background-color: var(--md-accent-fg-color);
-  }
-    */
