@@ -2,27 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://teamtomo.org/</loc>
-         <lastmod>2024-08-07</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://teamtomo.org/blog/</loc>
-         <lastmod>2024-08-07</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://teamtomo.org/site/applications/</loc>
-         <lastmod>2024-08-07</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
-         <loc>https://teamtomo.org/site/packages/</loc>
-         <lastmod>2024-08-07</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://teamtomo.org/site/image_analysis_packages/</loc>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://teamtomo.org/site/io_packages/</loc>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://teamtomo.org/site/team/</loc>
-         <lastmod>2024-08-07</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-23</lastmod>
     </url>
 </urlset>
