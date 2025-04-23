@@ -15,7 +15,7 @@ for parameter optimisation.
 
     ---
 
-    _Fourier slice theorem implementation for tomographic projection_
+    _Fourier slice extraction/insertion_
 
 -   :material-rhombus-split-outline:{ .lg .middle } [__torch-cubic-spline-grids__](https://github.com/teamtomo/torch-cubic-spline-grids) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-cubic-spline-grids) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-cubic-spline-grids)
 
@@ -45,13 +45,13 @@ for parameter optimisation.
 
     ---
 
-    _Linear interpolation for images and volumes_
+    _Sample and insert values in images and volumes_
 
 -   :material-grid:{ .lg .middle } [__torch-grid-utils__](https://github.com/teamtomo/torch-grid-utils) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-grid-utils) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-grid-utils)
 
     ---
 
-    _Utilities for working with regular grids in PyTorch_
+    _Utilities for working with real-space and fourier-space grids_
 
 -   :material-contactless-payment:{ .lg .middle } [__torch-fourier-shell-correlation__](https://github.com/teamtomo/torch-fourier-shell-correlation) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-fourier-shell-correlation) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-shell-correlation)
 
@@ -69,24 +69,24 @@ for parameter optimisation.
 
     ---
 
-    _Coarse tilt series alignment in PyTorch_
+    _Coarse tilt series alignment_
 
 -   :material-rotate-3d:{ .lg .middle } [__torch-transform-image__](https://github.com/teamtomo/torch-transform-image) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-transform-image) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-transform-image)
 
     ---
 
-    _Real space transformations of 2D/3D images in PyTorch_
+    _Real space transformations of 2D/3D images_
 
 -   :material-chart-bell-curve:{ .lg .middle } [__torch-find-peaks__](https://github.com/teamtomo/torch-find-peaks) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-find-peaks) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-find-peaks)
 
     ---
 
-    _Find and refine peaks in 2D/3D images using PyTorch_
+    _Find and refine peaks in 2D/3D images_
 
 -   :material-matrix:{ .lg .middle } [__torch-affine-utils__](https://github.com/teamtomo/torch-affine-utils) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-affine-utils) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-affine-utils)
 
     ---
 
-    _Utilities for affine transforms of 2D/3D coordinates in PyTorch_
+    _Utilities for affine transforms of 2D/3D coordinates_
 </div>
 
