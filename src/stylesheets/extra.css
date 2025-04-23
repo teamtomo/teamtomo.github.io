@@ -393,7 +393,7 @@
     animation: animate-stripes 3s linear infinite;
   }
   
-  .md-content .md-typeset a[href*="//"]:not([href*="mywebsite.co.uk"])::after
+  /* .md-content .md-typeset a[href*="//"]:not([href*="mywebsite.co.uk"])::after
   {
     content: "";
     display: inline-block;
@@ -413,3 +413,4 @@
   {
     background-color: var(--md-accent-fg-color);
   }
+    */

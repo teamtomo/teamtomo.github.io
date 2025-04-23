@@ -1,8 +1,6 @@
 ---
 title: ""
 hide:
-  - navigation
-  - toc
 ---
 # Team
 
