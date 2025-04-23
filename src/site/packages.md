@@ -1,3 +1,9 @@
+---
+title: ""
+hide:
+  - navigation
+  - toc
+---
 # Packages
 
 TeamTomo packages are Python code you can depend on for use in your own projects!

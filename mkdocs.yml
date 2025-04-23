@@ -7,14 +7,14 @@ repo_name: teamtomo/teamtomo.org
 repo_url: https://github.com/teamtomo/teamtomo.org
 edit_uri: edit/main/src
 docs_dir: src
-copyright: Copyright &copy; 2024 - 2024 teamtomo
+copyright: Copyright &copy; 2024 - 2025 teamtomo
 
 
 nav:
   - home: index.md
   - packages: site/packages.md
   # - applications: site/applications.md
-  #  - team: site/team.md
+  - team: site/team.md
 
 theme:
   icon:
