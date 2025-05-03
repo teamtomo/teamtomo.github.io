@@ -95,6 +95,12 @@ for parameter optimisation.
 
     _Calculate filters to be applied in 2D/3D fourier-space_
 
+-   :material-image-search:{ .lg .middle } [__torch-2dtm__](https://github.com/teamtomo/torch-2dtm) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-2dtm) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-2dtm)
+
+    ---
+
+    _Template matching of 2D images_
+
 </div>
 
 
