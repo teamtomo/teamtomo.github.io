@@ -88,5 +88,20 @@ for parameter optimisation.
     ---
 
     _Utilities for affine transforms of 2D/3D coordinates_
+
+-   :material-tune:{ .lg .middle } [__torch-fourier-filter__](https://github.com/teamtomo/torch-fourier-filter) [:fontawesome-solid-book:{ .middle }](https://github.com/teamtomo/torch-fourier-filter) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-filter)
+
+    ---
+
+    _Calculate filters to be applied in 2D/3D fourier-space_
+
+-   :material-image-search:{ .lg .middle } [__torch-2dtm__](https://github.com/teamtomo/torch-2dtm) [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-2dtm) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-2dtm)
+
+    ---
+
+    _Template matching of 2D images_
+
 </div>
+
+
 
