@@ -14,7 +14,7 @@ nav:
   - home: index.md
   - i/o packages: site/io_packages.md
   - image analysis packages: site/image_analysis_packages.md
-  # - applications: site/applications.md
+  - blog: blog/index.md
   - team: site/team.md
 
 theme:
