@@ -2,13 +2,13 @@
 title: ""
 hide:
 ---
-# Team
+# Contributors
 
 <div class="team-grid">
   {% for member in team_members %}
-  <img src="https://avatars.githubusercontent.com/{{ member.github }}" alt="{{ member.name|default(member.github) }}" class="avatar-img">  
+  <img src="https://avatars.githubusercontent.com/{{ member.github }}" alt="{{ member.name|default(member.github, true) }}" class="avatar-img">  
   <p style="text-align: center;">
-    <b><a href="https://github.com/{{ member.github }}" target="_blank">{{ member.name|default(member.github) }}</a></b><br>
+    <b><a href="https://github.com/{{ member.github }}" target="_blank">{{ member.name|default(member.github, true) }}</a></b><br>
     {% for repo in member.repos %}
     <a href="https://github.com/teamtomo/{{ repo }}">{{ repo }}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}
@@ -26,12 +26,12 @@ hide:
   border-radius: 50%;
   object-fit: cover;
   display: block;
-  margin: 0 auto;
+  margin: auto auto;
 }
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 160px auto;
   gap: 20px;
   margin: 20px 0;
 }
