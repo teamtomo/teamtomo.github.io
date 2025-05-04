@@ -1,2 +1,3 @@
 # python dependencies for building the site
 mkdocs-material
+mkdocs-gen-files
