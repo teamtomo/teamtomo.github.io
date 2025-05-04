@@ -26,7 +26,8 @@ jobs:
       - name: Build the site
         run: |
           mkdocs build
-
+        env:
+          GH_API_KEY: ${{ secrets.GITHUB_TOKEN }}
       - name: Push built site to GitHub pages branch of repo
         uses: peaceiris/actions-gh-pages@v4
         with:
