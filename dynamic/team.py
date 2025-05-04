@@ -88,6 +88,19 @@ class GitHubContributionsAnalyzer:
             contributors.extend(data)
             page += 1
         return contributors
+    
+    def get_user_name(self, username: str) -> str:
+        """Fetch the name of a user from their GitHub profile."""
+        try:
+            response = requests.get(
+                f'{self.base_url}/users/{username}',
+                headers=self.headers
+            )
+            response.raise_for_status()
+            data = response.json()
+            return data.get('name', username)
+        except requests.RequestException:
+            return username
 
     def analyze_contributions(self) -> Dict[str, Dict[str, Any]]:
         """Analyze contributions across all repositories."""
@@ -116,6 +129,10 @@ class GitHubContributionsAnalyzer:
                 contributions[username]['repos_contributed'][repo] = last_commit_date
                 contributions[username]['profile_url'] = contributor['html_url']
 
+        for username in contributions:
+            name = self.get_user_name(username)
+            print(f"Fetching name for {username}: {name}")
+            contributions[username]['name'] = self.get_user_name(username)
         return contributions
 
     def generate_repo_link(self, repo_name: str) -> str:
@@ -148,7 +165,7 @@ class GitHubContributionsAnalyzer:
         team_members = [
             {
                 "github": username,
-                "name": username,
+                "name": contributions[username]['name'],
                 "repos": [r[0] for r in repos[:5]],
                 "more_repos": repo_count - 5 if repo_count > 5 else None,
             } for username, profile_url, repo_count, total_commits, repos in sorted_contributors
