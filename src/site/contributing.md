@@ -13,10 +13,13 @@ We've probably run into whatever issue you're having before and are happy to hel
 
 We use the fantastic Python project template from 
 [pydev-guide.github.io](https://pydev-guide.github.io/quickstart/) 
-maintained by [Talley Lambert](https://bsky.app/profile/talley.codes). This provides
-- a modern Python package set up
+maintained by [Talley Lambert](https://bsky.app/profile/talley.codes). 
+
+This template provides:
+
+- a modern Python packaging setup
 - automated testing in GitHub Actions
-- automated deployment to PyPI with git tags
+- automated deployment to PyPI
 
 When setting up, please select the *fully featured* version of the template.
 
