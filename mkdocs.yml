@@ -16,6 +16,7 @@ nav:
   - image analysis packages: site/image_analysis_packages.md
   # - applications: site/applications.md
   - contributors: site/team.md
+  - contributing: site/contributing.md
 
 theme:
   icon:
@@ -75,9 +76,9 @@ markdown_extensions:
 plugins:
   - search
   - blog
-#  - gen-files:
-#      scripts:
-#        - src/dynamic/team.py
+  - gen-files:
+      scripts:
+        - src/dynamic/team.py
 
 extra_css:
   - stylesheets/extra.css

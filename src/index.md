@@ -26,7 +26,7 @@ hide:
     analysing cryo-EM data from Python easier by providing useful packages.
 
 
-Please take a look at the list of packages for [Input/Output](site/io_packages) and [Image Analysis](site/image_analysis_packages) for a description of existing packages.
+Please take a look at the list of packages for [Input/Output](site/io_packages.md) and [Image Analysis](site/image_analysis_packages.md) for a description of existing packages.
 
 
 **Key ideas**
