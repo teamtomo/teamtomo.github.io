@@ -107,7 +107,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              home
+              teamtomo.org
             
           </span>
         </div>
@@ -219,7 +219,7 @@
   
     
   
-  home
+  teamtomo.org
 
       </a>
     </li>
@@ -313,9 +313,7 @@
           
             
               
-                
-              
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -368,7 +366,7 @@
   
   
   <span class="md-ellipsis">
-    home
+    teamtomo.org
     
   </span>
   
@@ -475,9 +473,7 @@
             
             
               
-                
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -498,8 +494,6 @@
               <article class="md-content__inner md-typeset">
                 
                   
-  
-
 
 
   
@@ -511,52 +505,61 @@
   
 
 
-  <h1>home</h1>
+  <h1>teamtomo.org</h1>
 
 <style>
   .md-typeset h1,
   .md-content__button {
     display: none;
   }
+  .md-main__inner {
+    margin-top: 0;
+  }
 </style>
 
-<p><em>modular Python packages the cryo-ET community can depend on</em></p>
+<div align="center">
+    <h3><i>Modular Python packages for cryo-EM</i></h3>
+</div>
+
 <p><strong>The goal of teamtomo is to provide:</strong></p>
 <ul class="task-list">
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> a place for high quality Python packages that the community can rely on</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> high quality Python packages that the community can rely on</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> a place for developers to learn and build things together</li>
 </ul>
-<div class="admonition note">
+<div class="admonition example">
 <p class="admonition-title">Why?</p>
-<p>Python is a great language for image analysis. We make interacting with and
-analysing cryo-EM data from Python easier by providing useful packages.</p>
+<p>By providing simple, composable packages we make working with cryo-EM data from Python easier</p>
 </div>
-<p>Please take a look at the list of packages for <a href="site/io_packages/">Input/Output</a> and <a href="site/image_analysis_packages/">Image Analysis</a> for a description of existing packages.</p>
 <p><strong>Key ideas</strong></p>
 <ul>
-<li>packages are small, modular and easy to install</li>
-<li>package scope is limited and well defined</li>
-<li>APIs are <a href="https://peps.python.org/pep-0020/">Pythonic</a> and <a href="https://docs.python.org/3/library/typing.html">type hinted</a></li>
+<li>packages do one thing and do it well</li>
+<li>packages are easy to install</li>
+<li>APIs are simple, <a href="https://peps.python.org/pep-0020/">Pythonic</a> and <a href="https://docs.python.org/3/library/typing.html">type hinted</a></li>
 <li>code is <a href="https://docs.pytest.org/en/7.1.x/">tested</a></li>
 </ul>
-<p>If this seems daunting, we're here to help, please reach out by posting on <a href="https://forum.image.sc/tag/teamtomo">image.sc</a>)!</p>
+<p>Small packages which compose well make it easy to find and use exactly what you need for your own work.
+Take a look at our <a href="site/io_packages/">i/o packages</a> or <a href="site/image_analysis_packages/">image analysis packages</a> 
+to see what functionality we provide.</p>
 <p><strong>Development model</strong></p>
-<p>Because packages in <em>teamtomo</em> are small and well scoped it is easy to 
-depend on only those packages relevant to your work. </p>
-<p><em>teamtomo</em> is <strong>not</strong> a place for the development of your own software projects. 
-Your projects belong to you and the credit should be yours alone! 
-Did you develop a small, reusable component along the way that could benefit the 
-entire community? We would love to work with you to bring it here.</p>
-<p><strong>Work with us</strong></p>
-<p>Interested in working with us in some way? Fantastic, Welcome aboard! </p>
-<p>Most discussion should happen on <a href="https://forum.image.sc/tag/teamtomo">image.sc</a> so it is easy to find when searching online.</p>
-<p>For realtime chat we use image.sc's <a href="https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo">zulip</a>, a chat platform open to all for discussing details about the project. </p>
+<p><em>teamtomo</em> is developed and maintained by a distributed group of 
+volunteers from the scientific community.</p>
+<p>Interested in working with us? Fantastic, Welcome aboard! </p>
+<ul>
+<li>for realtime chat we use image.sc's <a href="https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo">zulip</a>. </li>
+<li>we have a quarterly developer meeting online</li>
+</ul>
+<p>If you'd like to be added to the calendar invite for the developer meeting then
+please drop a message in the zulip.</p>
+<p><strong>Imposter syndrome disclaimer</strong>: </p>
+<blockquote>
+<p>We want your help. No, really. There may be a little voice inside your head that is telling you that you're not ready, that you aren't skilled enough to contribute. We assure you that the little voice in your head is wrong. Most importantly, there are many valuable ways to contribute besides writing code.</p>
+</blockquote>
 <hr />
 <div align="center">
 
     <h4>Looking for the Warp/Dynamo/RELION/M guide?</h4>
 
-    <a href="https://teamtomo.org/teamtomo-site-archive">teamtomo.github.io/teamtomo-site-archive</a>
+    <a href="https://teamtomo.org/teamtomo-site-archive">teamtomo.org/teamtomo-site-archive</a>
 
 </div>
 
@@ -571,8 +574,6 @@ entire community? We would love to work with you to bring it here.</p>
 
 
 
-
-  
 
 
 
