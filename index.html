@@ -238,7 +238,7 @@
   
     
   
-  i/o packages
+  input/output
 
       </a>
     </li>
@@ -251,13 +251,32 @@
   
   
     <li class="md-tabs__item">
-      <a href="site/image_analysis_packages/" class="md-tabs__link">
+      <a href="site/primitives/" class="md-tabs__link">
         
   
   
     
   
-  image analysis packages
+  primitives
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="site/algorithms/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  algorithms
 
       </a>
     </li>
@@ -389,7 +408,7 @@
   
   
   <span class="md-ellipsis">
-    i/o packages
+    input/output
     
   </span>
   
@@ -406,12 +425,34 @@
   
   
     <li class="md-nav__item">
-      <a href="site/image_analysis_packages/" class="md-nav__link">
+      <a href="site/primitives/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    image analysis packages
+    primitives
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="site/algorithms/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    algorithms
     
   </span>
   
@@ -531,17 +572,17 @@
 <p>By providing simple, composable packages we make working with cryo-EM data from Python easier</p>
 </div>
 <p><strong>Key ideas</strong></p>
-<ul>
-<li>packages do one thing and do it well</li>
-<li>packages are easy to install</li>
-<li>APIs are simple, <a href="https://peps.python.org/pep-0020/">Pythonic</a> and <a href="https://docs.python.org/3/library/typing.html">type hinted</a></li>
-<li>code is <a href="https://docs.pytest.org/en/7.1.x/">tested</a></li>
-</ul>
-<p>Small packages which compose well make it easy to find and use exactly what you need for your own work.
-Take a look at our <a href="site/io_packages/">i/o packages</a> or <a href="site/image_analysis_packages/">image analysis packages</a> 
-to see what functionality we provide.</p>
+<p>Packages should:
+- do one thing and do it well
+- have a simple Python API
+- be easy to install
+- be <a href="https://docs.pytest.org/en/7.1.x/">tested</a></p>
+<p>Small packages which compose well make it easy to find and 
+depend on only the functionality which is relevant for your own work.
+We provide <a href="site/io_packages/"><strong>input/output functionality</strong></a>, <a href="site/primitives/"><strong>image analysis primitives</strong></a> 
+and implementations of <a href="site/algorithms/"><strong>cryo-EM algorithms</strong></a>.</p>
 <p><strong>Development model</strong></p>
-<p><em>teamtomo</em> is developed and maintained by a distributed group of 
+<p><em>teamtomo</em> is developed and maintained by a <a href="site/team/">distributed group</a> of 
 volunteers from the scientific community.</p>
 <p>Interested in working with us? Fantastic, Welcome aboard! </p>
 <ul>
