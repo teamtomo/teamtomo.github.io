@@ -31,18 +31,20 @@ hide:
 
 **Key ideas**
 
-- packages do one thing and do it well
-- packages are easy to install
-- APIs are simple, [Pythonic](https://peps.python.org/pep-0020/) and [type hinted](https://docs.python.org/3/library/typing.html)
-- code is [tested](https://docs.pytest.org/en/7.1.x/)
+Packages should:
+- do one thing and do it well
+- have a simple Python API
+- be easy to install
+- be [tested](https://docs.pytest.org/en/7.1.x/)
 
-Small packages which compose well make it easy to find and use exactly what you need for your own work.
-Take a look at our [i/o packages](site/io_packages.md) or [image analysis packages](site/image_analysis_packages.md) 
-to see what functionality we provide.
+Small packages which compose well make it easy to find and 
+depend on only the functionality which is relevant for your own work.
+We provide [**input/output functionality**](site/io_packages.md), [**image analysis primitives**](site/primitives.md) 
+and implementations of [**cryo-EM algorithms**](site/algorithms.md).
 
 **Development model**
 
-*teamtomo* is developed and maintained by a distributed group of 
+*teamtomo* is developed and maintained by a [distributed group](site/team.md) of 
 volunteers from the scientific community.
 
 Interested in working with us? Fantastic, Welcome aboard! 
