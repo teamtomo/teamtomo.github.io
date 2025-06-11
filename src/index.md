@@ -32,6 +32,7 @@ hide:
 **Key ideas**
 
 Packages should:
+
 - do one thing and do it well
 - have a simple Python API
 - be easy to install
