@@ -1,6 +1,5 @@
 """Generate team page from template using Jinja2."""
 
-import mkdocs_gen_files
 import os
 from jinja2 import Environment, FileSystemLoader
 import json
@@ -200,7 +199,7 @@ def main():
     markdown = analyzer.generate_markdown(contributions)
 
     # Save to file
-    with mkdocs_gen_files.open("site/team.md", "w") as f:
+    with open("src/site/team.md", "w") as f:
         f.write(markdown)
 
     print("Team page generated successfully!")
