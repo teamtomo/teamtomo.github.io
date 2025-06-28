@@ -3,8 +3,8 @@ site_url: https://teamtomo.org
 site_author: teamtomo
 site_description: >-
   Modular Python packages the cryo-ET community can depend on.
-repo_name: teamtomo/teamtomo.org
-repo_url: https://github.com/teamtomo/teamtomo.org
+repo_name: teamtomo/teamtomo.github.io
+repo_url: https://github.com/teamtomo/teamtomo.github.io
 edit_uri: edit/main/src
 docs_dir: src
 copyright: Copyright &copy; 2024 - 2025 teamtomo
