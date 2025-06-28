@@ -28,8 +28,7 @@ jobs:
       env:
         GH_API_KEY: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        cd src/dynamic
-        python team.py
+        python src/dynamic/team.py
         
     - name: Commit and push changes
       run: |
