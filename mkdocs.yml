@@ -83,3 +83,6 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - js/clickable_cards.js
