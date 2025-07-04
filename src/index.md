@@ -11,6 +11,20 @@ hide:
   .md-main__inner {
     margin-top: 0;
   }
+  .md-typeset .grid {
+    grid-gap: .4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 4rem), 1fr));
+    margin: 1em 0;
+  }
+  .card {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
 </style>
 
 
@@ -18,47 +32,45 @@ hide:
     <h3><i>Modular Python packages for cryo-EM</i></h3>
 </div>
 
+<div class="grid" markdown>
+
+
+:octicons-code-of-conduct-16: __Input/Output__<br> read and write common cryo-EM file formats
+{ .card }
+
+:fontawesome-solid-cubes: __Primitives__<br> PyTorch primitives for cryo-EM image analysis
+{ .card }
+
+:material-code-braces-box: __Algorithms__<br> implementations of<br> cryo-EM algorithms
+{ .card }
+
+</div>
+
 **The goal of teamtomo is to provide:**
 
 - [x] high quality Python packages that the community can rely on
 - [x] a place for developers to learn and build things together
 
-
 !!! example "Why?"
 
-    By providing simple, composable packages we make working with cryo-EM data from Python easier
+    By providing simple, composable packages we make working with cryo-EM data in Python easier
 
 
-**Key ideas**
+**Who are we?**
 
-Packages should:
-
-- do one thing and do it well
-- have a simple Python API
-- be easy to install
-- be [tested](https://docs.pytest.org/en/7.1.x/)
-
-Small packages which compose well make it easy to find and 
-depend on only the functionality which is relevant for your own work.
-We provide [**input/output functionality**](site/io_packages.md), [**image analysis primitives**](site/primitives.md) 
-and implementations of [**cryo-EM algorithms**](site/algorithms.md).
-
-**Development model**
-
-*teamtomo* is developed and maintained by a [distributed group](site/team.md) of 
+*teamtomo* is a developed and maintained by a [distributed group](site/team.md) of
 volunteers from the scientific community.
 
-Interested in working with us? Fantastic, Welcome aboard! 
+**Interested in working with us?**
 
-- for realtime chat we use image.sc's [zulip](https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo). 
+Fantastic, Welcome aboard!
+
+- check out our [guide to contributing](site/contributing.md)
+- for realtime chat we use image.sc's [zulip](https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo).
 - we have a quarterly developer meeting online
 
 If you'd like to be added to the calendar invite for the developer meeting then
 please drop a message in the zulip.
-
-**Imposter syndrome disclaimer**: 
- > We want your help. No, really. There may be a little voice inside your head that is telling you that you're not ready, that you aren't skilled enough to contribute. We assure you that the little voice in your head is wrong. Most importantly, there are many valuable ways to contribute besides writing code.
-
 
 -----
 
