@@ -46,20 +46,20 @@ hide:
 
 </div>
 
-**The goal of teamtomo is to provide:**
+**TeamTomo provides:**
 
 - [x] high quality Python packages that the community can rely on
 - [x] a place for developers to learn and build things together
 
 !!! example "Why?"
 
-    By providing simple, composable packages we make working with cryo-EM data in Python easier
+    by providing simple, composable packages we make it easy to work with cryo-EM data in Python
 
 
 **Who are we?**
 
-*teamtomo* is a developed and maintained by a [distributed group](site/team.md) of
-volunteers from the scientific community.
+*teamtomo* is a developed and maintained by a distributed [group of volunteers](site/team.md) 
+from the scientific community.
 
 **Interested in working with us?**
 
