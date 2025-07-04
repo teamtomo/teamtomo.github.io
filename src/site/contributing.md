@@ -9,6 +9,26 @@ and let us know what you'd like to add.
 If you get stuck with any of the following just ask in the Zulip! 
 We've probably run into whatever issue you're having before and are happy to help.
 
+**Imposter syndrome disclaimer**:
+> We want your help. No, really. There may be a little voice inside your head that is telling you that you're not ready,
+> that you aren't skilled enough to contribute. We assure you that the little voice in your head is wrong. Most
+> importantly, there are many valuable ways to contribute besides writing code.
+
+
+## Package Scope
+
+Packages should:
+
+- do one thing and do it well
+- have a simple Python API
+- be easy to install
+- be [tested](https://docs.pytest.org/en/7.1.x/)
+
+Small packages which compose well make it easy to find and
+depend on only the functionality which is relevant for your own work.
+In our experience, having small packages that are easy to reason about also makes it more 
+likely that motivated users will try to submit patches when things aren't quite working for them.
+
 ## Package Template
 
 We use the fantastic Python project template from 
