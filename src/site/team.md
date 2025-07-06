@@ -10,15 +10,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/alisterburt" target="_blank">Alister Burt</a></b><br>
     
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
+    
     <a href="https://github.com/teamtomo/torch-subtract-membranes-2d">torch-subtract-membranes-2d</a>, 
     
     <a href="https://github.com/teamtomo/torch-segment-membranes-2d">torch-segment-membranes-2d</a>, 
     
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-ctf-estimation">torch-ctf-estimation</a>
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>
     
     
     and 32 more
@@ -44,41 +44,41 @@ hide:
     
   </p>
   
-  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
-    
-    <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>
-    
-    
-    and 6 more
-    
-  </p>
-  
   <img src="https://avatars.githubusercontent.com/jojoelfe" alt="Johannes Elferich" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/jojoelfe" target="_blank">Johannes Elferich</a></b><br>
+    
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-ctf-estimation">torch-ctf-estimation</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
     
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
     
-    <a href="https://github.com/teamtomo/torch-find-peaks">torch-find-peaks</a>, 
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-affine-utils">torch-affine-utils</a>
+    <a href="https://github.com/teamtomo/torch-find-peaks">torch-find-peaks</a>
     
     
-    and 5 more
+    and 7 more
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
+    
+    <a href="https://github.com/teamtomo/torch-fourier-shell-correlation">torch-fourier-shell-correlation</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    
+    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
+    
+    <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
+    
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
+    
+    
+    and 7 more
     
   </p>
   
@@ -164,6 +164,17 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
+    
+    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
+    
+    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/rdrighetto" alt="Ricardo Righetto" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/rdrighetto" target="_blank">Ricardo Righetto</a></b><br>
@@ -171,17 +182,6 @@ hide:
     <a href="https://github.com/teamtomo/yet-another-imod-wrapper">yet-another-imod-wrapper</a>, 
     
     <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>, 
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
     
     
   </p>
@@ -299,6 +299,15 @@ hide:
     <b><a href="https://github.com/ybubnov" target="_blank">Yakau Bubnou</a></b><br>
     
     <a href="https://github.com/teamtomo/torch-cubic-spline-grids">torch-cubic-spline-grids</a>
+    
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/actions-user" alt="actions-user" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/actions-user" target="_blank">actions-user</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
     
   </p>
@@ -497,15 +506,6 @@ hide:
     <b><a href="https://github.com/Hanyi11" target="_blank">Hanyi11</a></b><br>
     
     <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/actions-user" alt="actions-user" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/actions-user" target="_blank">actions-user</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
     
   </p>
