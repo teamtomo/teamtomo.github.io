@@ -29,15 +29,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
     
-    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
+    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
     
-    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>
+    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>, 
+    
+    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>
     
     
     and 12 more
@@ -188,6 +188,17 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/hanjinliu" alt="Hanjin Liu" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/hanjinliu" target="_blank">Hanjin Liu</a></b><br>
+    
+    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
+    
+    <a href="https://github.com/teamtomo/starfile">starfile</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
@@ -276,15 +287,6 @@ hide:
     <b><a href="https://github.com/aysecanuenal" target="_blank">aysecanuenal</a></b><br>
     
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/hanjinliu" alt="Hanjin Liu" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/hanjinliu" target="_blank">Hanjin Liu</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
     
     
   </p>
