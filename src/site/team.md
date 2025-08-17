@@ -10,15 +10,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/alisterburt" target="_blank">Alister Burt</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>, 
+    
     <a href="https://github.com/teamtomo/torch-segment-membranes-3d">torch-segment-membranes-3d</a>, 
     
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
     
-    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>
+    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>
     
     
     and 31 more
