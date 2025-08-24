@@ -29,13 +29,13 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
     
-    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
-    
     <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
+    
+    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
     
     <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>, 
     
-    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
+    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
     
     <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>
     
@@ -108,6 +108,8 @@ hide:
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
+    
+    <a href="https://github.com/teamtomo/teamtomo-basemodel">teamtomo-basemodel</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
