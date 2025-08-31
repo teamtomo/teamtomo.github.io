@@ -10,15 +10,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/alisterburt" target="_blank">Alister Burt</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-fourier-rescale">torch-fourier-rescale</a>, 
+    
     <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>, 
     
     <a href="https://github.com/teamtomo/torch-segment-membranes-3d">torch-segment-membranes-3d</a>, 
     
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
     
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
     
     and 31 more
@@ -67,13 +67,13 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
-    <a href="https://github.com/teamtomo/torch-fourier-shell-correlation">torch-fourier-shell-correlation</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
     <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-shell-correlation">torch-fourier-shell-correlation</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
@@ -107,9 +107,9 @@ hide:
     
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
-    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
-    
     <a href="https://github.com/teamtomo/teamtomo-basemodel">teamtomo-basemodel</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
@@ -235,6 +235,15 @@ hide:
     <b><a href="https://github.com/actions-user" target="_blank">actions-user</a></b><br>
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
+    
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/davidetorre99" alt="davidetorre99" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/davidetorre99" target="_blank">davidetorre99</a></b><br>
+    
+    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
     
     
   </p>
