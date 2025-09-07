@@ -179,6 +179,17 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/davidetorre99" alt="davidetorre99" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/davidetorre99" target="_blank">davidetorre99</a></b><br>
+    
+    <a href="https://github.com/teamtomo/alnfile">alnfile</a>, 
+    
+    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/dmichalak" alt="Dennis J. Michalak" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/dmichalak" target="_blank">Dennis J. Michalak</a></b><br>
@@ -235,15 +246,6 @@ hide:
     <b><a href="https://github.com/actions-user" target="_blank">actions-user</a></b><br>
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/davidetorre99" alt="davidetorre99" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/davidetorre99" target="_blank">davidetorre99</a></b><br>
-    
-    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
     
     
   </p>
