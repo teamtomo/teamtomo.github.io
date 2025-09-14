@@ -29,11 +29,11 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>, 
+    
     <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>, 
     
     <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
     
@@ -41,6 +41,25 @@ hide:
     
     
     and 12 more
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
+    
+    <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    
+    <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-2dtm">torch-2dtm</a>, 
+    
+    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>
+    
+    
+    and 7 more
     
   </p>
   
@@ -57,25 +76,6 @@ hide:
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
     
     <a href="https://github.com/teamtomo/torch-find-peaks">torch-find-peaks</a>
-    
-    
-    and 7 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
-    
-    <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-shell-correlation">torch-fourier-shell-correlation</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
     
     and 7 more
