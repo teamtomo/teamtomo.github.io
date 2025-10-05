@@ -10,15 +10,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/alisterburt" target="_blank">Alister Burt</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
+    
     <a href="https://github.com/teamtomo/torch-fourier-rescale">torch-fourier-rescale</a>, 
     
     <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>, 
     
     <a href="https://github.com/teamtomo/torch-segment-membranes-3d">torch-segment-membranes-3d</a>, 
     
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
+    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>
     
     
     and 31 more
@@ -29,18 +29,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-refine-tilt-axis-angle">torch-refine-tilt-axis-angle</a>, 
+    
     <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
     
-    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>
+    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>
     
     
-    and 12 more
+    and 13 more
     
   </p>
   
@@ -48,18 +48,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
+    
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
     <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
     
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
-    <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-2dtm">torch-2dtm</a>
+    <a href="https://github.com/teamtomo/mmdf">mmdf</a>
     
     
-    and 7 more
+    and 8 more
     
   </p>
   
@@ -105,16 +105,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
+    
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo-basemodel">teamtomo-basemodel</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>
     
-    <a href="https://github.com/teamtomo/mmdf">mmdf</a>
     
+    and 1 more
     
   </p>
   
@@ -135,9 +137,9 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/davidetorre99" target="_blank">davidetorre99</a></b><br>
     
-    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
-    
     <a href="https://github.com/teamtomo/alnfile">alnfile</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
     
     <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
     
@@ -522,9 +524,9 @@ hide:
     
   </p>
   
-  <img src="https://avatars.githubusercontent.com/Hanyi11" alt="Hanyi11" class="avatar-img">  
+  <img src="https://avatars.githubusercontent.com/Hanyi11" alt="HanyiZhang" class="avatar-img">  
   <p style="text-align: center;">
-    <b><a href="https://github.com/Hanyi11" target="_blank">Hanyi11</a></b><br>
+    <b><a href="https://github.com/Hanyi11" target="_blank">HanyiZhang</a></b><br>
     
     <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
     
