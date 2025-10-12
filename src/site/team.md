@@ -31,13 +31,13 @@ hide:
     
     <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>, 
     
+    <a href="https://github.com/teamtomo/torch-find-peaks">torch-find-peaks</a>, 
+    
     <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
     
     <a href="https://github.com/teamtomo/torch-refine-tilt-axis-angle">torch-refine-tilt-axis-angle</a>, 
     
-    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>
+    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>
     
     
     and 13 more
