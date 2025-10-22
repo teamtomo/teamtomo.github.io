@@ -7,7 +7,7 @@
 - :material-dots-hexagon: **torch-segment-fiducials-2d** | segment gold fiducials in cryo-EM images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-segment-fiducials-2d) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-segment-fiducials-2d)
 - :material-tilde: **torch-segment-membranes-2d** | segment membranes in cryo-EM images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-segment-membranes-2d) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-segment-membranes-2d)
 - :fontawesome-solid-wand-magic-sparkles: **torch-subtract-membranes-2d** | subtract membranes from cryo-EM images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-subtract-membranes-2d) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-subtract-membranes-2d)
-- :material-rectangle: **torch-segment-tomogram-boundaries** | Detect boundaries of tomographic volumes | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-segment-tomogram-boundaries) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-segment-tomogram-boundaries)
+- :material-rectangle: **torch-segment-tomogram-boundaries** | detect boundaries of cryo-ET volumes | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-segment-tomogram-boundaries) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-segment-tomogram-boundaries)
 
 ## Work in Progress
 
