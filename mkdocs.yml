@@ -15,8 +15,10 @@ nav:
   - input/output: site/io_packages.md
   - primitives: site/primitives.md
   - algorithms: site/algorithms.md
-  # - applications: site/applications.md
-  - contributors: site/team.md
+#  - applications: site/applications.md
+#  - story: site/story.md
+  - team: site/team.md
+  - contributors: site/contributors.md
   - contributing: site/contributing.md
 
 theme:

@@ -161,7 +161,7 @@ class GitHubContributionsAnalyzer:
             ],
             key=lambda x: (-x[2], -x[3])  # Sort by -repo_count, then -total_commits
         )
-        team_members = [
+        contributors = [
             {
                 "github": username,
                 "name": contributions[username]['name'],
@@ -173,10 +173,10 @@ class GitHubContributionsAnalyzer:
 
         # Setup Jinja2 environment
         env = Environment(loader=FileSystemLoader('.'))
-        template = env.get_template('src/dynamic/team_template.md')
+        template = env.get_template('src/dynamic/contributors_template.md')
 
-        # Render template with team members data
-        output = template.render(team_members=team_members)
+        # Render template with contributor data
+        output = template.render(contributors=contributors)
        
 
         return output

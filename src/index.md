@@ -58,12 +58,12 @@ hide:
 
 **Who are we?**
 
-*teamtomo* is a developed and maintained by a distributed [group of volunteers](site/team.md) 
+*teamtomo* is a developed and maintained by a distributed [group of volunteers](site/team) 
 from the scientific community.
 
 **Interested in working with us?**
 
-Fantastic, Welcome aboard!
+Fantastic, welcome aboard!
 
 - check out our [guide to contributing](site/contributing.md)
 - for realtime chat we use image.sc's [zulip](https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo).

@@ -28,11 +28,11 @@ jobs:
       env:
         GH_API_KEY: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python src/dynamic/team.py
+        python src/dynamic/contributors.py
         
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add src/site/team.md
-        git diff --staged --quiet || (git commit -m "Update team page [automated]" && git push)
+        git add src/site/contributors.md
+        git diff --staged --quiet || (git commit -m "Update contributors page [automated]" && git push)
