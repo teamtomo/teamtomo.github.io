@@ -1,570 +1,186 @@
 ---
 title: ""
-hide:
 ---
-# Contributors
+# Core Team
 
-<div class="team-grid">
-  
-  <img src="https://avatars.githubusercontent.com/alisterburt" alt="Alister Burt" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/alisterburt" target="_blank">Alister Burt</a></b><br>
-    
-    <a href="https://github.com/teamtomo/alnfile">alnfile</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-rescale">torch-fourier-rescale</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-segment-membranes-3d">torch-segment-membranes-3d</a>
-    
-    
-    and 32 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/McHaillet" alt="Marten Chaillet" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-find-peaks">torch-find-peaks</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-refine-tilt-axis-angle">torch-refine-tilt-axis-angle</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>
-    
-    
-    and 13 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
-    <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
-    
-    <a href="https://github.com/teamtomo/mmdf">mmdf</a>
-    
-    
-    and 8 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/jojoelfe" alt="Johannes Elferich" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jojoelfe" target="_blank">Johannes Elferich</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-ctf-estimation">torch-ctf-estimation</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-find-peaks">torch-find-peaks</a>
-    
-    
-    and 7 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/brisvag" alt="Lorenzo Gaifas" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/brisvag" target="_blank">Lorenzo Gaifas</a></b><br>
-    
-    <a href="https://github.com/teamtomo/cryohub">cryohub</a>, 
-    
-    <a href="https://github.com/teamtomo/fidder">fidder</a>, 
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>, 
-    
-    <a href="https://github.com/teamtomo/qvox">qvox</a>, 
-    
-    <a href="https://github.com/teamtomo/cryotypes">cryotypes</a>
-    
-    
-    and 4 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/mgiammar" alt="Matthew Giammar" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo-basemodel">teamtomo-basemodel</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>
-    
-    
-    and 1 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/EuanPyle" alt="EuanPyle" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/EuanPyle" target="_blank">EuanPyle</a></b><br>
-    
-    <a href="https://github.com/teamtomo/lil-aretomo">lil-aretomo</a>, 
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>, 
-    
-    <a href="https://github.com/teamtomo/yet-another-imod-wrapper">yet-another-imod-wrapper</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/davidetorre99" alt="davidetorre99" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/davidetorre99" target="_blank">davidetorre99</a></b><br>
-    
-    <a href="https://github.com/teamtomo/alnfile">alnfile</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
-    
-    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/rdrighetto" alt="Ricardo Righetto" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/rdrighetto" target="_blank">Ricardo Righetto</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo-runner-test">teamtomo-runner-test</a>, 
-    
-    <a href="https://github.com/teamtomo/yet-another-imod-wrapper">yet-another-imod-wrapper</a>, 
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/sjrothfuss" alt="Spencer J Rothfuss" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/sjrothfuss" target="_blank">Spencer J Rothfuss</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-image-interpolation">torch-image-interpolation</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/kevinyamauchi" alt="Kevin Yamauchi" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/kevinyamauchi" target="_blank">Kevin Yamauchi</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>, 
-    
-    <a href="https://github.com/teamtomo/cryo-et-sample-data">cryo-et-sample-data</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/bbarad" alt="Benjamin Barad" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/bbarad" target="_blank">Benjamin Barad</a></b><br>
-    
-    <a href="https://github.com/teamtomo/qvox">qvox</a>, 
-    
-    <a href="https://github.com/teamtomo/.github">.github</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/dmichalak" alt="Dennis J. Michalak" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/dmichalak" target="_blank">Dennis J. Michalak</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-segment-fiducials-2d">torch-segment-fiducials-2d</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/hanjinliu" alt="Hanjin Liu" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/hanjinliu" target="_blank">Hanjin Liu</a></b><br>
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/LorenzLamm" alt="Lorenz Lamm" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/LorenzLamm" target="_blank">Lorenz Lamm</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/milesagraham" alt="Miles Graham" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/milesagraham" target="_blank">Miles Graham</a></b><br>
-    
-    <a href="https://github.com/teamtomo/ttmask">ttmask</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/actions-user" alt="actions-user" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/actions-user" target="_blank">actions-user</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/jahooker" alt="James Hooker" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jahooker" target="_blank">James Hooker</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/cormsby626" alt="cormsby626" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/cormsby626" target="_blank">cormsby626</a></b><br>
-    
-    <a href="https://github.com/teamtomo/mmdf">mmdf</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/braxtonowens" alt="Braxton Owens" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/braxtonowens" target="_blank">Braxton Owens</a></b><br>
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/uermel" alt="Utz Ermel" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/uermel" target="_blank">Utz Ermel</a></b><br>
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/alexjnoble" alt="alexjnoble" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/alexjnoble" target="_blank">alexjnoble</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/aysecanuenal" alt="aysecanuenal" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/aysecanuenal" target="_blank">aysecanuenal</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/jmheumann" alt="John Heumann" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jmheumann" target="_blank">John Heumann</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/ThomasHoffmann77" alt="Thomas Hoffmann" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/ThomasHoffmann77" target="_blank">Thomas Hoffmann</a></b><br>
-    
-    <a href="https://github.com/teamtomo/lil-aretomo">lil-aretomo</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/ybubnov" alt="Yakau Bubnou" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/ybubnov" target="_blank">Yakau Bubnou</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-cubic-spline-grids">torch-cubic-spline-grids</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/quantumjot" alt="Alan R Lowe" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/quantumjot" target="_blank">Alan R Lowe</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/andschenk" alt="Andreas Schenk" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/andschenk" target="_blank">Andreas Schenk</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/BradyAJohnston" alt="Brady Johnston" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/BradyAJohnston" target="_blank">Brady Johnston</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/Guillawme" alt="Guillaume Gaullier" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/Guillawme" target="_blank">Guillaume Gaullier</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/huwjenkins" alt="Huw Jenkins" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/huwjenkins" target="_blank">Huw Jenkins</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/ray-berkeley" alt="Ray Berkeley" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/ray-berkeley" target="_blank">Ray Berkeley</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/ryanfeathers" alt="Ryan Feathers" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/ryanfeathers" target="_blank">Ryan Feathers</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/MrCurtis" alt="MrCurtis" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/MrCurtis" target="_blank">MrCurtis</a></b><br>
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/kabilar" alt="Kabilar Gunalan" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/kabilar" target="_blank">Kabilar Gunalan</a></b><br>
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/MoritzWM" alt="Moritz Wachsmuth-Melm" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/MoritzWM" target="_blank">Moritz Wachsmuth-Melm</a></b><br>
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/vschwarze" alt="vschwarze" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/vschwarze" target="_blank">vschwarze</a></b><br>
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/amineuron" alt="amineuron" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/amineuron" target="_blank">amineuron</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/rezaparaancryoem" alt="rezaparaancryoem" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/rezaparaancryoem" target="_blank">rezaparaancryoem</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/odespard" alt="Oscar Despard" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/odespard" target="_blank">Oscar Despard</a></b><br>
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/shahpnmlab" alt="Pranav NM Shah" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/shahpnmlab" target="_blank">Pranav NM Shah</a></b><br>
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/goanpeca" alt="Gonzalo Peña-Castellanos" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/goanpeca" target="_blank">Gonzalo Peña-Castellanos</a></b><br>
-    
-    <a href="https://github.com/teamtomo/cryohub">cryohub</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/rsanchezgarc" alt="rsanchezgarc" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/rsanchezgarc" target="_blank">rsanchezgarc</a></b><br>
-    
-    <a href="https://github.com/teamtomo/libtilt">libtilt</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/Ratolon" alt="Mikel Izeta" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/Ratolon" target="_blank">Mikel Izeta</a></b><br>
-    
-    <a href="https://github.com/teamtomo/fidder">fidder</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/dijor0310" alt="Diyor Khayrutdinov" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/dijor0310" target="_blank">Diyor Khayrutdinov</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/EricDeveaud" alt="Eric Deveaud" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/EricDeveaud" target="_blank">Eric Deveaud</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/GenevieveBuckley" alt="Genevieve Buckley" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/GenevieveBuckley" target="_blank">Genevieve Buckley</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/Hanyi11" alt="HanyiZhang" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/Hanyi11" target="_blank">HanyiZhang</a></b><br>
-    
-    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/reddismorr" alt="Viacheslav Kralin" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/reddismorr" target="_blank">Viacheslav Kralin</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>
-    
-    
-  </p>
-  
+*teamtomo* is developed and maintained by a distributed group of volunteers from 
+the computational cryo-EM/ET community.
+
+<div class="team-grid" id="teamGrid">
+  <div class="team-member">
+    <h3>Ben Barad</h3>
+  </div>
+  <div class="team-member">
+    <h3>Alister Burt</h3>
+  </div>
+  <div class="team-member">
+    <h3>Marten Chaillet</h3>
+  </div>
+  <div class="team-member">
+    <h3>Oscar Despard</h3>
+  </div>
+  <div class="team-member">
+    <h3>Josh Dickerson</h3>
+  </div>
+  <div class="team-member">
+    <h3>Johannes Elferich</h3>
+  </div>
+  <div class="team-member">
+    <h3>Utz Ermel</h3>
+  </div>
+  <div class="team-member">
+    <h3>Matthew Giammar</h3>
+  </div>
+  <div class="team-member">
+    <h3>Pavol Harar</h3>
+  </div>
+  <div class="team-member">
+    <h3>Mikel Izeta</h3>
+  </div>
+  <div class="team-member">
+    <h3>Mart Last</h3>
+  </div>
+  <div class="team-member">
+    <h3>Dennis Michalak</h3>
+  </div>
+  <div class="team-member">
+    <h3>Braxton Owens</h3>
+  </div>
+  <div class="team-member">
+    <h3>Ricardo Righetto</h3>
+  </div>
+  <div class="team-member">
+    <h3>Spencer Rothfuss</h3>
+  </div>
+  <div class="team-member">
+    <h3>Jonathan Schwartz</h3>
+  </div>
+  <div class="team-member">
+    <h3>Pranav Shah</h3>
+  </div>
+  <div class="team-member">
+    <h3>Liza Shiltseva</h3>
+  </div>
+  <div class="team-member">
+    <h3>Davide Torre</h3>
+  </div>
+  <div class="team-member">
+    <h3>Aysecan Unal</h3>
+  </div>
+  <div class="team-member">
+    <h3>Abigail Watson</h3>
+  </div>
+</div>
+<div align="center">
+(alphabetical by last name)
 </div>
 
 <style>
-.avatar-img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  margin: auto auto;
-}
-
 .team-grid {
-  display: grid;
-  grid-template-columns: 160px auto;
-  gap: 20px;
-  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  justify-content: center;
 }
 
-/* Make it responsive - single column on small screens */
+.team-member {
+  flex: 0 0 140px; /* Fixed width to fit longest name */
+  background: var(--md-code-bg-color);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.team-member:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.team-member h3 {
+  margin: 0;
+  font-size: 0.65rem;
+  color: var(--md-primary-fg-color);
+  font-weight: 500;
+}
+
+/* Dynamic width classes */
+.team-member.cols-3 { flex: 0 1 calc(33.333% - 0.333rem); max-width: 200px; }
+.team-member.cols-4 { flex: 0 1 calc(25% - 0.375rem); max-width: 180px; }
+.team-member.cols-5 { flex: 0 1 calc(20% - 0.4rem); max-width: 160px; }
+.team-member.cols-6 { flex: 0 1 calc(16.666% - 0.417rem); max-width: 140px; }
+.team-member.cols-7 { flex: 0 1 calc(14.285% - 0.429rem); max-width: 130px; }
+
 @media (max-width: 768px) {
-  .team-grid {
-    grid-template-columns: 1fr;
+  .team-member {
+    flex: 1 1 calc(50% - 0.25rem);
+    max-width: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .team-member {
+    flex: 1 1 100%;
+    max-width: none;
   }
 }
 </style>
+
+<script>
+function distributeTeamMembers() {
+  const grid = document.getElementById('teamGrid');
+  if (!grid) return;
+  
+  const members = Array.from(grid.querySelectorAll('.team-member'));
+  const totalMembers = members.length;
+  
+  // Calculate container width
+  const containerWidth = grid.offsetWidth;
+  const minItemWidth = 140; // Minimum width to fit longest names
+  const gap = 8; // 0.5rem gap
+  
+  // Calculate maximum possible columns
+  const maxCols = Math.floor((containerWidth + gap) / (minItemWidth + gap));
+  
+  // Find optimal column count that distributes members evenly
+  let bestCols = maxCols;
+  let minDifference = totalMembers;
+  
+  for (let cols = Math.min(maxCols, 7); cols >= 3; cols--) {
+    const rows = Math.ceil(totalMembers / cols);
+    const lastRowItems = totalMembers % cols || cols;
+    const difference = cols - lastRowItems;
+    
+    // Prefer layouts where the last row has at least cols-2 items
+    if (lastRowItems >= cols - 2 && difference < minDifference) {
+      minDifference = difference;
+      bestCols = cols;
+    }
+  }
+  
+  // Apply the column class to all members
+  members.forEach(member => {
+    // Remove any existing cols classes
+    member.className = member.className.replace(/\bcols-\d+\b/g, '');
+    member.classList.add(`cols-${bestCols}`);
+  });
+}
+
+// Run on load and resize
+if (typeof window !== 'undefined') {
+  window.addEventListener('load', distributeTeamMembers);
+  window.addEventListener('resize', () => {
+    clearTimeout(window.resizeTimer);
+    window.resizeTimer = setTimeout(distributeTeamMembers, 250);
+  });
+  
+  // Run immediately if DOM is already loaded
+  if (document.readyState === 'complete' || document.readyState === 'interactive') {
+    setTimeout(distributeTeamMembers, 0);
+  }
+}
+</script>
