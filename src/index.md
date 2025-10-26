@@ -48,22 +48,31 @@ hide:
 
 **TeamTomo provides:**
 
-- [x] high quality Python packages that the community can rely on
+- [x] high quality Python packages for cryo-EM/ET
 - [x] a place for developers to learn and build things together
 
 !!! example "Why?"
 
     by providing simple, composable packages we make it easy to work with cryo-EM data in Python
 
+**Who is TeamTomo for?**
+
+<div class="grid" markdown>
+
+
+🧪 __Scripty Scientists__<br> explore cryo-EM image analysis or wrangle metadata in Python
+{ .card }
+ 
+🤓 __Methods Developers__<br> focus on your exciting new method without reimplementing the basics
+{ .card }
+
+</div>
+
 
 **Who are we?**
 
 *teamtomo* is developed and maintained by a distributed [group of volunteers](site/team) 
-from the scientific community.
-
-**Interested in working with us?**
-
-Fantastic, welcome aboard!
+from the scientific community. Interested in working with us? Fantastic, welcome aboard!
 
 - check out our [guide to contributing](site/contributing.md)
 - for realtime chat we use image.sc's [zulip](https://imagesc.zulipchat.com/#narrow/stream/426493-TeamTomo).
