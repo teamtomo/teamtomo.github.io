@@ -3,8 +3,8 @@ title: ""
 ---
 # Core Team
 
-*teamtomo* is a developed and maintained by a distributed group of volunteers from 
-the cryo-EM/ET community.
+*teamtomo* is developed and maintained by a distributed group of volunteers from 
+the computational cryo-EM/ET community.
 
 <div class="team-grid" id="teamGrid">
   <div class="team-member">

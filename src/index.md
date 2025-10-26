@@ -58,7 +58,7 @@ hide:
 
 **Who are we?**
 
-*teamtomo* is a developed and maintained by a distributed [group of volunteers](site/team) 
+*teamtomo* is developed and maintained by a distributed [group of volunteers](site/team) 
 from the scientific community.
 
 **Interested in working with us?**
