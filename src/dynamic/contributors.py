@@ -199,10 +199,10 @@ def main():
     markdown = analyzer.generate_markdown(contributions)
 
     # Save to file
-    with open("src/site/team.md", "w") as f:
+    with open("src/site/contributors.md", "w") as f:
         f.write(markdown)
 
-    print("Team page generated successfully!")
+    print("Contributors page generated successfully!")
 
 main()
  

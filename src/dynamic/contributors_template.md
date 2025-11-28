@@ -5,7 +5,7 @@ hide:
 # Contributors
 
 <div class="team-grid">
-  {% for member in team_members %}
+  {% for member in contributors %}
   <img src="https://avatars.githubusercontent.com/{{ member.github }}" alt="{{ member.name|default(member.github, true) }}" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/{{ member.github }}" target="_blank">{{ member.name|default(member.github, true) }}</a></b><br>

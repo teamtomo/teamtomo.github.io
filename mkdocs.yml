@@ -79,9 +79,9 @@ markdown_extensions:
 plugins:
   - search
   - blog
-#  - gen-files:
-#      scripts:
-#        - src/dynamic/team.py
+  - gen-files:
+      scripts:
+        - src/dynamic/contributors.py
 
 extra_css:
   - stylesheets/extra.css
