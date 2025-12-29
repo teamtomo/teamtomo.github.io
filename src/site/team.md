@@ -41,6 +41,9 @@ the computational cryo-EM/ET community.
     <h3>Mart Last</h3>
   </div>
   <div class="team-member">
+    <h3>Hanjin Liu</h3>
+  </div>
+  <div class="team-member">
     <h3>Dennis Michalak</h3>
   </div>
   <div class="team-member">
