@@ -11,7 +11,8 @@ for parameter optimisation.
 - :fontawesome-regular-file-lines: **torch-fourier-slice** | extracting/inserting central slices of Fourier transforms | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-fourier-slice) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-slice)
 - :material-magnify-scan: **torch-fourier-rescale** | rescale by padding/cropping Fourier transforms | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-fourier-rescale) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-rescale)
 - :material-arrow-all: **torch-fourier-shift** | subpixel shift by phase shifting Fourier transforms | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-fourier-shift) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-shift)
-- :material-tune: **torch-fourier-filter** | Fourier space filters (including the CTF) | [:fontawesome-solid-book:{ .middle }](https://github.com/teamtomo/torch-fourier-filter) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-filter)
+- :material-waveform: **torch-ctf** | Contrast Transfer Function (CTF) utilities | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-ctf) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-ctf)
+- :material-tune: **torch-fourier-filter** | Fourier space filters | [:fontawesome-solid-book:{ .middle }](https://github.com/teamtomo/torch-fourier-filter) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-filter)
 - :material-contactless-payment:**torch-fourier-shell-correlation** | correlation as a function of spatial frequency | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-fourier-shell-correlation) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fourier-shell-correlation)
 
 ### Real Space
