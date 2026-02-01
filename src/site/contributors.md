@@ -48,13 +48,13 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    
     <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
@@ -479,6 +479,15 @@ hide:
   <img src="https://avatars.githubusercontent.com/odespard" alt="Oscar Despard" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/odespard" target="_blank">Oscar Despard</a></b><br>
+    
+    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
+    
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/sumslogs" alt="sumslogs" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/sumslogs" target="_blank">sumslogs</a></b><br>
     
     <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
     
