@@ -105,15 +105,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
+    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
+    
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
     
     <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
     
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>
     
     
     and 4 more
@@ -220,17 +220,6 @@ hide:
     
   </p>
   
-  <img src="https://avatars.githubusercontent.com/hanjinliu" alt="Hanjin Liu" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/hanjinliu" target="_blank">Hanjin Liu</a></b><br>
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
-    
-    <a href="https://github.com/teamtomo/starfile">starfile</a>
-    
-    
-  </p>
-  
   <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
@@ -238,6 +227,17 @@ hide:
     <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
     
     <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
+    
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/hanjinliu" alt="Hanjin Liu" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/hanjinliu" target="_blank">Hanjin Liu</a></b><br>
+    
+    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>, 
+    
+    <a href="https://github.com/teamtomo/starfile">starfile</a>
     
     
   </p>
