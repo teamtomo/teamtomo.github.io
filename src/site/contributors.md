@@ -25,6 +25,25 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
+    
+    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>
+    
+    
+    and 13 more
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/McHaillet" alt="Marten Chaillet" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
@@ -41,25 +60,6 @@ hide:
     
     
     and 13 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
-    
-    
-    and 12 more
     
   </p>
   
@@ -220,6 +220,17 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/uermel" alt="Utz Ermel" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/uermel" target="_blank">Utz Ermel</a></b><br>
+    
+    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>, 
+    
+    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
@@ -290,15 +301,6 @@ hide:
   <img src="https://avatars.githubusercontent.com/braxtonowens" alt="Braxton Owens" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/braxtonowens" target="_blank">Braxton Owens</a></b><br>
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/uermel" alt="Utz Ermel" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/uermel" target="_blank">Utz Ermel</a></b><br>
     
     <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
     
