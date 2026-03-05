@@ -75,7 +75,7 @@ To cite a specific version, follow the DOI link and use the citation provided on
 
 === "APA"
 
-    {apa_authors} *teamtomo*. Zenodo. https://doi.org/{concept_doi}
+    {apa_authors} *teamtomo: modular Python packages for cryo-EM and cryo-ET*. Zenodo. https://doi.org/{concept_doi}
 """
 
 
