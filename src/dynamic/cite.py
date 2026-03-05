@@ -66,7 +66,7 @@ To cite a specific version, follow the DOI link and use the citation provided on
     ```bibtex
     @software{{teamtomo,
       author       = {{{bibtex_authors}}},
-      title        = {{{{teamtomo}}}},
+      title        = {{{{teamtomo: modular Python packages for cryo-EM and cryo-ET}}}},
       publisher    = {{Zenodo}},
       doi          = {{{concept_doi}}},
       url          = {{https://doi.org/{concept_doi}}}
