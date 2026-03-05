@@ -20,6 +20,7 @@ nav:
   - team: site/team.md
   - contributors: site/contributors.md
   - contributing: site/contributing.md
+  - citing: site/cite.md
 
 theme:
   icon:
