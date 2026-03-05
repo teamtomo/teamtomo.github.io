@@ -12,8 +12,10 @@
         <meta name="author" content="teamtomo">
       
       
-        <link rel="canonical" href="https://teamtomo.org/dynamic/contributors_template/">
+        <link rel="canonical" href="https://teamtomo.org/site/cite/">
       
+      
+        <link rel="prev" href="../contributing/">
       
       
       
@@ -25,7 +27,7 @@
     
     
       
-        <title>teamtomo.org</title>
+        <title>citing - teamtomo.org</title>
       
     
     
@@ -78,7 +80,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#contributors" class="md-skip">
+        <a href="#cite-teamtomo" class="md-skip">
           Skip to content
         </a>
       
@@ -112,7 +114,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              
+              citing
             
           </span>
         </div>
@@ -235,7 +237,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../site/io_packages/" class="md-tabs__link">
+      <a href="../io_packages/" class="md-tabs__link">
         
   
   
@@ -254,7 +256,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../site/primitives/" class="md-tabs__link">
+      <a href="../primitives/" class="md-tabs__link">
         
   
   
@@ -273,7 +275,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../site/algorithms/" class="md-tabs__link">
+      <a href="../algorithms/" class="md-tabs__link">
         
   
   
@@ -292,7 +294,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../site/team/" class="md-tabs__link">
+      <a href="../team/" class="md-tabs__link">
         
   
   
@@ -311,7 +313,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../site/contributors/" class="md-tabs__link">
+      <a href="../contributors/" class="md-tabs__link">
         
   
   
@@ -330,7 +332,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../site/contributing/" class="md-tabs__link">
+      <a href="../contributing/" class="md-tabs__link">
         
   
   
@@ -347,9 +349,11 @@
   
   
   
+    
   
-    <li class="md-tabs__item">
-      <a href="../../site/cite/" class="md-tabs__link">
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
         
   
   
@@ -441,7 +445,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../site/io_packages/" class="md-nav__link">
+      <a href="../io_packages/" class="md-nav__link">
         
   
   
@@ -468,7 +472,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../site/primitives/" class="md-nav__link">
+      <a href="../primitives/" class="md-nav__link">
         
   
   
@@ -495,7 +499,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../site/algorithms/" class="md-nav__link">
+      <a href="../algorithms/" class="md-nav__link">
         
   
   
@@ -522,7 +526,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../site/team/" class="md-nav__link">
+      <a href="../team/" class="md-nav__link">
         
   
   
@@ -549,7 +553,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../site/contributors/" class="md-nav__link">
+      <a href="../contributors/" class="md-nav__link">
         
   
   
@@ -576,7 +580,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../site/contributing/" class="md-nav__link">
+      <a href="../contributing/" class="md-nav__link">
         
   
   
@@ -600,10 +604,19 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../site/cite/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -619,6 +632,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -658,7 +672,7 @@
 
 
   
-    <a href="https://github.com/teamtomo/teamtomo.github.io/edit/main/src/dynamic/contributors_template.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
+    <a href="https://github.com/teamtomo/teamtomo.github.io/edit/main/src/site/cite.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
     </a>
@@ -666,55 +680,35 @@
   
 
 
-<h1 id="contributors">Contributors<a class="headerlink" href="#contributors" title="Permanent link">#</a></h1>
-<div class="team-grid">
-  {% for member in contributors %}
-  <img src="https://avatars.githubusercontent.com/{{ member.github }}" alt="{{ member.name|default(member.github, true) }}" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/{{ member.github }}" target="_blank">{{ member.name|default(member.github, true) }}</a></b><br>
-    {% for repo in member.repos %}
-    <a href="https://github.com/teamtomo/{{ repo }}">{{ repo }}</a>{% if not loop.last %}, {% endif %}
-    {% endfor %}
-    {% if member.more_repos %}
-    and {{ member.more_repos }} more
-    {% endif %}
-  </p>
-  {% endfor %}
+<h1 id="cite-teamtomo">Cite teamtomo<a class="headerlink" href="#cite-teamtomo" title="Permanent link">#</a></h1>
+<p>If you use teamtomo packages in your research, please cite the project using the reference below.</p>
+<p>The DOI is a concept DOI that represents the teamtomo project as a whole, independent of any specific version.
+To cite a specific version, follow the DOI link and use the citation provided on that Zenodo page.</p>
+<p><a href="https://doi.org/10.5281/zenodo.18405652"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.18405652.svg" /></a></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">BibTeX</label><label for="__tabbed_1_2">APA</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="language-bibtex highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="nc">@software</span><span class="p">{</span><span class="nl">teamtomo</span><span class="p">,</span>
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="w">  </span><span class="na">author</span><span class="w">       </span><span class="p">=</span><span class="w"> </span><span class="s">{Burt, Alister and</span>
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="s">                  Giammar, Matthew}</span><span class="p">,</span>
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="w">  </span><span class="na">title</span><span class="w">        </span><span class="p">=</span><span class="w"> </span><span class="s">{{teamtomo}}</span><span class="p">,</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="w">  </span><span class="na">publisher</span><span class="w">    </span><span class="p">=</span><span class="w"> </span><span class="s">{Zenodo}</span><span class="p">,</span>
+</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="w">  </span><span class="na">doi</span><span class="w">          </span><span class="p">=</span><span class="w"> </span><span class="s">{10.5281/zenodo.18405652}</span><span class="p">,</span>
+</span><span id="__span-0-7"><a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="w">  </span><span class="na">url</span><span class="w">          </span><span class="p">=</span><span class="w"> </span><span class="s">{https://doi.org/10.5281/zenodo.18405652}</span>
+</span><span id="__span-0-8"><a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a><span class="p">}</span>
+</span></code></pre></div>
+</div>
+<div class="tabbed-block">
+<p>Burt, A., &amp; Giammar, M. <em>teamtomo</em>. Zenodo. https://doi.org/10.5281/zenodo.18405652</p>
+</div>
+</div>
 </div>
 
-<style>
-.avatar-img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  margin: auto auto;
-}
-
-.team-grid {
-  display: grid;
-  grid-template-columns: 160px auto;
-  gap: 20px;
-  margin: 20px 0;
-}
-
-/* Make it responsive - single column on small screens */
-@media (max-width: 768px) {
-  .team-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
 
 
 
 
 
-
-
-  
-  
 
 
 
