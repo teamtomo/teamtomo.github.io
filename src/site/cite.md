@@ -13,7 +13,7 @@ To cite a specific version, follow the DOI link and use the citation provided on
     @software{teamtomo,
       author       = {Burt, Alister and
                       Giammar, Matthew},
-      title        = {{teamtomo}},
+      title        = {{teamtomo: modular Python packages for cryo-EM and cryo-ET}},
       publisher    = {Zenodo},
       doi          = {10.5281/zenodo.18405652},
       url          = {https://doi.org/10.5281/zenodo.18405652}
@@ -22,4 +22,4 @@ To cite a specific version, follow the DOI link and use the citation provided on
 
 === "APA"
 
-    Burt, A., & Giammar, M. *teamtomo*. Zenodo. https://doi.org/10.5281/zenodo.18405652
+    Burt, A., & Giammar, M. *teamtomo: modular Python packages for cryo-EM and cryo-ET*. Zenodo. https://doi.org/10.5281/zenodo.18405652
