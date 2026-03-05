@@ -82,7 +82,7 @@ To cite a specific version, follow the DOI link and use the citation provided on
 def main():
     print("Fetching Zenodo authors and generating cite page...")
     cite_markdown = generate_cite_page(ZENODO_CONCEPT_ID, ZENODO_CONCEPT_DOI)
-    with open("src/site/cite.md", "w") as f:
+    with open("src/site/citing.md", "w") as f:
         f.write(cite_markdown)
     print("Cite page generated successfully!")
 
