@@ -25,9 +25,30 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/McHaillet" alt="Marten Chaillet" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>
+    
+    
+    and 15 more
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/jdickerson95" alt="Josh Dickerson" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
+    
+    <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
     
@@ -35,31 +56,10 @@ hide:
     
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>
+    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>
     
     
     and 14 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/McHaillet" alt="Marten Chaillet" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/McHaillet" target="_blank">Marten Chaillet</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-affine-utils">torch-affine-utils</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>
-    
-    
-    and 13 more
     
   </p>
   
