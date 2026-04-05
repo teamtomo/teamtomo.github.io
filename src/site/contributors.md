@@ -48,9 +48,9 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
-    <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>, 
-    
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
     
@@ -209,6 +209,17 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/uermel" alt="Utz Ermel" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/uermel" target="_blank">Utz Ermel</a></b><br>
+    
+    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>, 
+    
+    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/dmichalak" alt="Dennis J. Michalak" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/dmichalak" target="_blank">Dennis J. Michalak</a></b><br>
@@ -227,17 +238,6 @@ hide:
     <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
     
     <a href="https://github.com/teamtomo/libtilt">libtilt</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/uermel" alt="Utz Ermel" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/uermel" target="_blank">Utz Ermel</a></b><br>
-    
-    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>, 
-    
-    <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
     
     
   </p>
