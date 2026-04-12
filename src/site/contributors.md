@@ -48,15 +48,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
+    
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
     <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
     
-    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>
+    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>
     
     
     and 14 more
