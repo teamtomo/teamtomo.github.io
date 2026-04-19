@@ -10,18 +10,37 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/alisterburt" target="_blank">Alister Burt</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-fourier-rescale">torch-fourier-rescale</a>, 
+    
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
     
     <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>, 
     
-    <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
-    
-    <a href="https://github.com/teamtomo/alnfile">alnfile</a>
+    <a href="https://github.com/teamtomo/mmdf">mmdf</a>
     
     
     and 33 more
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/mgiammar" alt="Matthew Giammar" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>
+    
+    
+    and 20 more
     
   </p>
   
@@ -48,15 +67,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
+    
+    <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
+    
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
     
     <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
     
-    <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
-    
-    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>
+    <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>
     
     
     and 14 more
@@ -95,25 +114,6 @@ hide:
     <a href="https://github.com/teamtomo/qvox">qvox</a>, 
     
     <a href="https://github.com/teamtomo/cryotypes">cryotypes</a>
-    
-    
-    and 4 more
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/mgiammar" alt="Matthew Giammar" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-fourier-slice">torch-fourier-slice</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-motion-correction">torch-motion-correction</a>
     
     
     and 4 more
