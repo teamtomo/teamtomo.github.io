@@ -31,13 +31,13 @@ hide:
     
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
+    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
+    
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
     <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>, 
     
-    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-tiltxcorr">torch-tiltxcorr</a>
+    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>
     
     
     and 20 more
