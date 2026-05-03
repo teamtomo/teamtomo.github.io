@@ -588,6 +588,15 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/DavidKart" alt="David Kartte" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/DavidKart" target="_blank">David Kartte</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>
+    
+    
+  </p>
+  
 </div>
 
 <style>
