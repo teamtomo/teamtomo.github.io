@@ -264,6 +264,17 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/amineuron" alt="Amin" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/amineuron" target="_blank">Amin</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
+    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/LorenzLamm" alt="Lorenz Lamm" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/LorenzLamm" target="_blank">Lorenz Lamm</a></b><br>
@@ -476,15 +487,6 @@ hide:
     <b><a href="https://github.com/vschwarze" target="_blank">vschwarze</a></b><br>
     
     <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/amineuron" alt="amineuron" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/amineuron" target="_blank">amineuron</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo-site-archive">teamtomo-site-archive</a>
     
     
   </p>
