@@ -137,6 +137,21 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/sjrothfuss" alt="Spencer J Rothfuss" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/sjrothfuss" target="_blank">Spencer J Rothfuss</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-image-interpolation">torch-image-interpolation</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/EuanPyle" alt="EuanPyle" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/EuanPyle" target="_blank">EuanPyle</a></b><br>
@@ -159,19 +174,6 @@ hide:
     <a href="https://github.com/teamtomo/yet-another-imod-wrapper">yet-another-imod-wrapper</a>, 
     
     <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/sjrothfuss" alt="Spencer J Rothfuss" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/sjrothfuss" target="_blank">Spencer J Rothfuss</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-image-interpolation">torch-image-interpolation</a>
     
     
   </p>
