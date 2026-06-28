@@ -29,18 +29,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
+    <a href="https://github.com/teamtomo/starfile">starfile</a>, 
+    
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
-    <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>
+    <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>
     
     
-    and 20 more
+    and 21 more
     
   </p>
   
@@ -124,22 +124,26 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/davidetorre99" target="_blank">Davide Torre</a></b><br>
     
+    <a href="https://github.com/teamtomo/torch-reconstruct-tomogram">torch-reconstruct-tomogram</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-tilt-series">torch-tilt-series</a>, 
+    
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
     
     <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
     
-    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>, 
+    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
     
-    <a href="https://github.com/teamtomo/alnfile">alnfile</a>, 
     
-    <a href="https://github.com/teamtomo/torch-tomogram">torch-tomogram</a>
-    
+    and 2 more
     
   </p>
   
   <img src="https://avatars.githubusercontent.com/sjrothfuss" alt="Spencer J Rothfuss" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/sjrothfuss" target="_blank">Spencer J Rothfuss</a></b><br>
+    
+    <a href="https://github.com/teamtomo/starfile">starfile</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
