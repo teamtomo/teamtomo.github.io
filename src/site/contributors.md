@@ -124,15 +124,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/davidetorre99" target="_blank">Davide Torre</a></b><br>
     
-    <a href="https://github.com/teamtomo/torch-reconstruct-tomogram">torch-reconstruct-tomogram</a>, 
-    
     <a href="https://github.com/teamtomo/torch-tilt-series">torch-tilt-series</a>, 
+    
+    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-reconstruct-tomogram">torch-reconstruct-tomogram</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
     
-    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>, 
-    
-    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>
+    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>
     
     
     and 2 more
