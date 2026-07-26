@@ -29,11 +29,11 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
+    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
+    
     <a href="https://github.com/teamtomo/starfile">starfile</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
-    
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
@@ -124,18 +124,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/davidetorre99" target="_blank">Davide Torre</a></b><br>
     
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
     <a href="https://github.com/teamtomo/torch-reconstruct-tomogram">torch-reconstruct-tomogram</a>, 
     
     <a href="https://github.com/teamtomo/torch-tilt-series">torch-tilt-series</a>, 
     
     <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>, 
     
-    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-structure-manipulation">torch-structure-manipulation</a>
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
     
     
-    and 2 more
+    and 3 more
     
   </p>
   
@@ -143,16 +143,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/sjrothfuss" target="_blank">Spencer J Rothfuss</a></b><br>
     
+    <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>, 
+    
     <a href="https://github.com/teamtomo/starfile">starfile</a>, 
     
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
     <a href="https://github.com/teamtomo/torch-transform-image">torch-transform-image</a>, 
     
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
+    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>
     
-    <a href="https://github.com/teamtomo/torch-image-interpolation">torch-image-interpolation</a>
     
+    and 1 more
     
   </p>
   
@@ -165,6 +167,19 @@ hide:
     <a href="https://github.com/teamtomo/starfile">starfile</a>, 
     
     <a href="https://github.com/teamtomo/yet-another-imod-wrapper">yet-another-imod-wrapper</a>
+    
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/rsanchezgarc" alt="rsanchezgarc" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/rsanchezgarc" target="_blank">rsanchezgarc</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
+    
+    <a href="https://github.com/teamtomo/libtilt">libtilt</a>
     
     
   </p>
@@ -237,17 +252,6 @@ hide:
     
   </p>
   
-  <img src="https://avatars.githubusercontent.com/rsanchezgarc" alt="rsanchezgarc" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/rsanchezgarc" target="_blank">rsanchezgarc</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>, 
-    
-    <a href="https://github.com/teamtomo/libtilt">libtilt</a>
-    
-    
-  </p>
-  
   <img src="https://avatars.githubusercontent.com/daniel-ji" alt="Daniel Ji" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/daniel-ji" target="_blank">Daniel Ji</a></b><br>
@@ -290,20 +294,20 @@ hide:
     
   </p>
   
-  <img src="https://avatars.githubusercontent.com/milesagraham" alt="Miles Graham" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/milesagraham" target="_blank">Miles Graham</a></b><br>
-    
-    <a href="https://github.com/teamtomo/ttmask">ttmask</a>
-    
-    
-  </p>
-  
   <img src="https://avatars.githubusercontent.com/actions-user" alt="actions-user" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/actions-user" target="_blank">actions-user</a></b><br>
     
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>
+    
+    
+  </p>
+  
+  <img src="https://avatars.githubusercontent.com/milesagraham" alt="Miles Graham" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/milesagraham" target="_blank">Miles Graham</a></b><br>
+    
+    <a href="https://github.com/teamtomo/ttmask">ttmask</a>
     
     
   </p>
