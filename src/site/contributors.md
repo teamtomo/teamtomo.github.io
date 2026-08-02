@@ -402,6 +402,15 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/joelyeois" alt="Joel Yeo" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/joelyeois" target="_blank">Joel Yeo</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/quantumjot" alt="Alan R Lowe" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/quantumjot" target="_blank">Alan R Lowe</a></b><br>
