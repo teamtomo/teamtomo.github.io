@@ -9,6 +9,8 @@
 - :fontawesome-solid-wand-magic-sparkles: **torch-subtract-membranes-2d** | subtract membranes from cryo-EM images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-subtract-membranes-2d) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-subtract-membranes-2d)
 - :material-rectangle: **torch-segment-tomogram-boundaries** | detect boundaries of cryo-ET volumes | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-segment-tomogram-boundaries) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-segment-tomogram-boundaries)
 - :material-select-all: **torch-motion-correction** | correct local motion in cryo-EM images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-motion-correction) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-motion-correction)
+- :material-cube-scan: **torch-fit-in-map** | rigid-body alignment of volumes and atomic models | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-fit-in-map) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-fit-in-map)
+- :material-magnify: **torch-local-resolution** | local resolution estimation from half-sets of maps, micrographs or tomograms | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-local-resolution) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-local-resolution)
 
 ## Work in Progress
 - :material-contactless-payment: **torch-ctf-estimation** | estimate local defocus in cryo-EM images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-ctf-estimation) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-ctf-estimation)

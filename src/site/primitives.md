@@ -21,11 +21,13 @@ for parameter optimisation.
 - :material-rhombus-split-outline: **torch-cubic-spline-grids** | continuous parametrisations of 1-4D spaces | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-cubic-spline-grids) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-cubic-spline-grids)
 - :material-crop: **torch-subpixel-crop** | crop from images with subpixel precision | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-subpixel-crop) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-subpixel-crop)
 - :material-chart-bell-curve: **torch-find-peaks** | find and refine peaks in images | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-find-peaks) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-find-peaks)
+- :material-blur: **torch-scattering** | multislice electron scattering simulation | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-scattering) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-scattering)
 
 ### Utilities
 - :material-grid:**torch-grid-utils** | coordinate grids, frequency grids and shape generation | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-grid-utils) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-grid-utils)
 - :material-refresh:**torch-so3** | 3D rotation operations and utilities | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-so3) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-so3)
 - :material-matrix:**torch-affine-utils** | affine matrix generation for 2D/3D coordinates | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-affine-utils) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-affine-utils)
+- :material-axis-z-rotate-clockwise: **torch-tilt-series** | tilt series data structure, projection and subtilt extraction | [:fontawesome-solid-book:{ .middle }](https://teamtomo.org/torch-tilt-series) [:fontawesome-brands-github:{ .middle }](https://github.com/teamtomo/torch-tilt-series)
 
 
 
