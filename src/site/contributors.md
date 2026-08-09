@@ -67,15 +67,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/jdickerson95" target="_blank">Josh Dickerson</a></b><br>
     
+    <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
+    
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
     <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
     
     <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>, 
     
-    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-ctf">torch-ctf</a>
+    <a href="https://github.com/teamtomo/torch-fourier-filter">torch-fourier-filter</a>
     
     
     and 14 more
