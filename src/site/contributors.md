@@ -330,6 +330,15 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/joelyeois" alt="Joel Yeo" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/joelyeois" target="_blank">Joel Yeo</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/braxtonowens" alt="Braxton Owens" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/braxtonowens" target="_blank">Braxton Owens</a></b><br>
@@ -398,15 +407,6 @@ hide:
     <b><a href="https://github.com/chlofisher" target="_blank">Chloe Fisher</a></b><br>
     
     <a href="https://github.com/teamtomo/torch-fourier-shift">torch-fourier-shift</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/joelyeois" alt="Joel Yeo" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/joelyeois" target="_blank">Joel Yeo</a></b><br>
-    
-    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>
     
     
   </p>
