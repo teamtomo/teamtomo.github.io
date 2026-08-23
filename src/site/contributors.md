@@ -29,11 +29,11 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
     <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
     
     <a href="https://github.com/teamtomo/starfile">starfile</a>, 
-    
-    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
