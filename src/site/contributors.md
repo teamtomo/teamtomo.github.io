@@ -158,6 +158,19 @@ hide:
     
   </p>
   
+  <img src="https://avatars.githubusercontent.com/shahpnmlab" alt="Pranav NM Shah" class="avatar-img">  
+  <p style="text-align: center;">
+    <b><a href="https://github.com/shahpnmlab" target="_blank">Pranav NM Shah</a></b><br>
+    
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    
+    <a href="https://github.com/teamtomo/torch-segment-tomogram-boundaries">torch-segment-tomogram-boundaries</a>, 
+    
+    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
+    
+    
+  </p>
+  
   <img src="https://avatars.githubusercontent.com/EuanPyle" alt="EuanPyle" class="avatar-img">  
   <p style="text-align: center;">
     <b><a href="https://github.com/EuanPyle" target="_blank">EuanPyle</a></b><br>
@@ -193,17 +206,6 @@ hide:
     <a href="https://github.com/teamtomo/yet-another-imod-wrapper">yet-another-imod-wrapper</a>, 
     
     <a href="https://github.com/teamtomo/membrain-seg">membrain-seg</a>
-    
-    
-  </p>
-  
-  <img src="https://avatars.githubusercontent.com/shahpnmlab" alt="Pranav NM Shah" class="avatar-img">  
-  <p style="text-align: center;">
-    <b><a href="https://github.com/shahpnmlab" target="_blank">Pranav NM Shah</a></b><br>
-    
-    <a href="https://github.com/teamtomo/torch-segment-tomogram-boundaries">torch-segment-tomogram-boundaries</a>, 
-    
-    <a href="https://github.com/teamtomo/mdocfile">mdocfile</a>
     
     
   </p>
