@@ -29,18 +29,18 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
-    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
+    <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
     
-    <a href="https://github.com/teamtomo/ttsim3d">ttsim3d</a>, 
+    <a href="https://github.com/teamtomo/etomofiles">etomofiles</a>, 
     
     <a href="https://github.com/teamtomo/starfile">starfile</a>, 
     
-    <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
+    <a href="https://github.com/teamtomo/alnfile">alnfile</a>, 
     
-    <a href="https://github.com/teamtomo/torch-subpixel-crop">torch-subpixel-crop</a>
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>
     
     
-    and 21 more
+    and 23 more
     
   </p>
   
