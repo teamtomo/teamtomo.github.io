@@ -29,15 +29,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/mgiammar" target="_blank">Matthew Giammar</a></b><br>
     
-    <a href="https://github.com/teamtomo/starfile">starfile</a>, 
+    <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
     <a href="https://github.com/teamtomo/imodmodel">imodmodel</a>, 
     
-    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>, 
+    <a href="https://github.com/teamtomo/eerfile">eerfile</a>, 
     
     <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
     
-    <a href="https://github.com/teamtomo/eerfile">eerfile</a>
+    <a href="https://github.com/teamtomo/dynamotable">dynamotable</a>
     
     
     and 27 more
