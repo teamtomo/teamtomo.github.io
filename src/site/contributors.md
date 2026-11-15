@@ -50,16 +50,16 @@ hide:
     
     <a href="https://github.com/teamtomo/teamtomo">teamtomo</a>, 
     
+    <a href="https://github.com/teamtomo/emfile">emfile</a>, 
+    
     <a href="https://github.com/teamtomo/teamtomo.github.io">teamtomo.github.io</a>, 
     
     <a href="https://github.com/teamtomo/torch-so3">torch-so3</a>, 
     
-    <a href="https://github.com/teamtomo/mmdf">mmdf</a>, 
-    
-    <a href="https://github.com/teamtomo/torch-grid-utils">torch-grid-utils</a>
+    <a href="https://github.com/teamtomo/mmdf">mmdf</a>
     
     
-    and 15 more
+    and 16 more
     
   </p>
   
@@ -105,15 +105,15 @@ hide:
   <p style="text-align: center;">
     <b><a href="https://github.com/brisvag" target="_blank">Lorenzo Gaifas</a></b><br>
     
+    <a href="https://github.com/teamtomo/emfile">emfile</a>, 
+    
     <a href="https://github.com/teamtomo/cryohub">cryohub</a>, 
     
     <a href="https://github.com/teamtomo/fidder">fidder</a>, 
     
     <a href="https://github.com/teamtomo/starfile">starfile</a>, 
     
-    <a href="https://github.com/teamtomo/qvox">qvox</a>, 
-    
-    <a href="https://github.com/teamtomo/cryotypes">cryotypes</a>
+    <a href="https://github.com/teamtomo/qvox">qvox</a>
     
     
     and 4 more
